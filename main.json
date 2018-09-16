@@ -1,0 +1,8 @@
+
+var myStock=[{"name":"Wood",
+"Type":"raw material",
+"Quantity":"1000 logs"},{"name":"iron",
+"Type":"raw material",
+"Quantity":"500 tons"},{"name":"Aluminum",
+"Type":"raw material",
+"Quantity":"100 tons"}]
